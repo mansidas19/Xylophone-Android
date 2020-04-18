@@ -3,12 +3,12 @@
 <resources>
 
     <color name="colorPrimaryDark">#000000</color>
-    <color name="red">#000000</color>
-    <color name="orange">#89cff0</color>
-    <color name="yellow">#000000</color>
-    <color name="turquoise">#000000</color>
-    <color name="green">#89cff0</color>
-    <color name="blue">#89cff0</color>
-    <color name="purple">#000000</color>
+    <color name="red">#151B8D</color>
+    <color name="orange">#0000A0</color>
+    <color name="yellow">#0020C2</color>
+    <color name="turquoise">#2554C7</color>
+    <color name="green">#0041C2</color>
+    <color name="blue">#2B60DE</color>
+    <color name="purple">#1569C7</color>
 
 </resources>
